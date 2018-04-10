@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftlogTest", "SoftlogTest\SoftlogTest.csproj", "{31D8C2BD-D736-4560-A82A-24CCAB785836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D8C2BD-D736-4560-A82A-24CCAB785836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D8C2BD-D736-4560-A82A-24CCAB785836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D8C2BD-D736-4560-A82A-24CCAB785836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D8C2BD-D736-4560-A82A-24CCAB785836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE5A59C-1CAF-488E-83B3-FA8ACC2A66E7}
+	EndGlobalSection
+EndGlobal
