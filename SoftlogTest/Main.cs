@@ -45,18 +45,13 @@ namespace SoftlogTest
 
             gridViewProduct.Columns.Add("Code", "Codigo");
             gridViewProduct.Columns.Add("Description", "Descrição");
-            gridViewProduct.Columns.Add("Price", "Preço");
-            gridViewProduct.Columns.Add("Active", "Ativo");
 
-            
             foreach (var product in ProductController.AllProducts)
             {
                 int index = gridViewProduct.Rows.Add();
                 gridViewProduct.Rows[index].Tag = product;
                 gridViewProduct.Rows[index].Cells[0].Value = product.Code;
                 gridViewProduct.Rows[index].Cells[1].Value = product.Description;
-                gridViewProduct.Rows[index].Cells[2].Value = product.Price;
-                gridViewProduct.Rows[index].Cells[3].Value = product.Active ? "Sim" : "Não";
             }
         }
 
