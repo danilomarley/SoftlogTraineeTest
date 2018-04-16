@@ -5,10 +5,10 @@ Projeto base para o teste dos estágiarios da SOFTLOG
 Desenvolver uma ferramenta para que possa visualizar os produtos cadastrados e adicionar novos
 
 -> Passo a passo:
-\n 1º Criar uma classe Produto tendo, código, descrição, preço e se está ativo
-2º Criar uma lista mostrando todos os produtos (código, descrição)
-3º Possibilidade de verificar todas as informações do produto
-4º Possibilidade de cadastrar um novo produto
+- Criar uma classe Produto tendo, código, descrição, preço e se está ativo
+- Criar uma lista mostrando todos os produtos (código, descrição)
+- Possibilidade de verificar todas as informações do produto
+- Possibilidade de cadastrar um novo produto
 
 -> Requisitos:
 - O projeto deve desenvolvido utilizando qualquer tecnologia que envolva c#.
