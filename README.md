@@ -1,4 +1,4 @@
-# SoftlogTraineeTest
+-# SoftlogTraineeTest
 Projeto base para o teste dos estágiarios da SOFTLOG
 
 -> Objetivo:
@@ -12,9 +12,9 @@ Desenvolver uma ferramenta para que possa visualizar os produtos cadastrados e a
 
 -> Requisitos:
 - O projeto deve desenvolvido utilizando qualquer tecnologia que envolva c#.
-- Deverá ser feita uma requisição e recuperar um JSON para trazer a lista de produto já cadastrados
-Dica: Pode se utilizar do site https://myjson.com/ para criar um local para requisição
-OBS.: Não é necessário salvar os produtos cadastrados, poderá ser guardado em tempo de execução da aplicação.
+- Deverá ser feita uma requisição e recuperar um JSON para trazer a lista de produto já cadastrados.
+- Dica: Pode se utilizar do site https://myjson.com/ para criar um local para requisição.
+- OBS.: Não é necessário salvar os produtos cadastrados, poderá ser guardado em tempo de execução da aplicação.
 
 -> Avaliação:
 - Será avaliado o nível da logica de programação do candidato e a estruturação do projeto.
